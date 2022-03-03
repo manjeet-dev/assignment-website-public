@@ -1,5 +1,5 @@
 import React from "react";
-// import "./style.css";
+
 
 const SingleCard = ({cardID = "portfolioModal1",imgName="cabin.png",modalTitle="Log Cabin"}) => (
   <div className="modalWrap">
